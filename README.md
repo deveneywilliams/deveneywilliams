@@ -1,6 +1,6 @@
 # Hi, I'm Deveney.
 
-I run [Sunny Side Up](https://ssustudio.com), a Boston creative agency, and I'm a marketer who builds the tools our agency needs with AI. This is where I build in public: small experiments, what worked, what broke.
+I run [Sunny Side Up](https://ssustudio.com), a Boston creative agency, and I'm a designer and marketer who builds the tools our agency needs with AI. This is where I build in public: small experiments, what worked, what broke.
 
 ## What I use AI for
 
